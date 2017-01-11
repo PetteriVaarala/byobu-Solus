@@ -87,7 +87,7 @@
     </Package>
     <History>
         <Update release="1">
-            <Date>2016-12-30</Date>
+            <Date>2017-01-11</Date>
             <Version>5.113</Version>
             <Comment>Packaging update</Comment>
             <Name>Petteri Vaarala</Name>
