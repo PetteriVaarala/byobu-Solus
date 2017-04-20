@@ -11,7 +11,6 @@ description: |
 rundeps    :
     - tmux
     - newt
-    - coreutils
 setup      : |
     %configure
 build      : |
