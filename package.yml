@@ -1,8 +1,8 @@
 name       : byobu
-version    : '5.116'
-release    : 2
+version    : '5.124'
+release    : 3
 source     :
-    - https://launchpad.net/byobu/trunk/5.116/+download/byobu_5.116.orig.tar.gz : 85251e149bc56cfeb299c88b32390889b73b444f47039f9206a012602ecb9748
+    - https://launchpad.net/byobu/trunk/5.124/+download/byobu_5.124.orig.tar.gz : 4eca1287b95093ac4697e6ebf7312308d54af90630db151669c5f328e0bef122
 license    : GPL-3.0
 component  : system.utils
 summary    : Byobu is an enhancement for the GNU Screen or Tmux
